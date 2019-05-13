@@ -1,0 +1,9 @@
+# python
+*.pyc
+
+# Clion
+venv
+.idea
+testdata
+.clion.source.upload.marker
+cmake-build-debug-rans-docker
